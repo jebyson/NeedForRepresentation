@@ -46,7 +46,6 @@ public class Main {
             currRep++;
             currWord++;
         }
-
         for (String s: encryptString) {
             System.out.print(s);
         }
